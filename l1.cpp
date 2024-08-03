@@ -210,7 +210,7 @@ int main()
     a=a*100+rem;
     printf("output: %d",a);
 }
-//level 1, quetion 9
+//level 1, quetion 16
 //Get  three digit  number from user and print the hundered's digit? 
 //code:
 #include<stdio.h>
